@@ -1,19 +1,18 @@
 //
-//  ContentView.swift
+//  ProfileView.swift
 //  routeracer
 //
 //  Created by Shaheer Khan on 8/24/25.
 //
 
 import SwiftUI
-import SwiftData
 
-struct ContentView: View {
+struct ProfileView: View {
     var body: some View {
-        Text("Hello World")
+        Text("Profile View")
     }
 }
 
 #Preview {
-    ContentView()
+    ProfileView()
 }

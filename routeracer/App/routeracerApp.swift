@@ -7,12 +7,13 @@
 
 import SwiftUI
 import SwiftData
-
+import CoreLocation
 @main
 struct routeracerApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
